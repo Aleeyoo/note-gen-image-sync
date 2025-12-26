@@ -1,4 +1,4 @@
-## 👋👋 一个个人用图库。
+## 👋👋 一个个人用图库。（⚠️ 已停用）
 >作为多个博客、网页的图库使用。
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:center; margin:20px auto; padding:0 15px;">
@@ -8,7 +8,7 @@
          style="width:32px; height:32px; border:0; border-radius:4px; transition: opacity 0.3s;">
   </a>
 
-<a href="https://github.com/Aleeyoo" target="_blank" rel="noopener noreferrer" style="text-decoration:none; transition: transform 0.2s;">
+<a href="https://bgithub.xyz/Aleeyoo" target="_blank" rel="noopener noreferrer" style="text-decoration:none; transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/Aleeyoo-3498db?style=for-the-badge&logo=blogger&logoColor=white" 
          style="height:32px; width:auto; border:0; border-radius:4px; transition: opacity 0.3s;">
   </a>
